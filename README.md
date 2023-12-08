@@ -1,5 +1,7 @@
 # Productivity Tips and Tricks
 
-Here's the list of tips and tricks I found useful as a developer and a technology consumer in general🙌
+Here's the list of tips,tricks and apps/websites I found useful to ease my life and be more productive
 
-1. [One Click to open all your Social Media Feeds!](https://github.com/everythingshyam/productivity-tips-and-tricks/blob/master/SocialMediaShortcut.md)
+-   [One Click to open all your Social Media Feeds!](https://github.com/everythingshyam/productivity-tips-and-tricks/blob/master/SocialMediaShortcut.md)
+
+-   [Net Speed Monitor Overlay Bubble for Windows(Open Source)](https://github.com/hanyizhao/NetSpeedMonitor)

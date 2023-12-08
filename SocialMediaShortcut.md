@@ -1,5 +1,7 @@
 # One Click to open all your Social Media Feeds
 
+### [Watch it on YouTube](https://youtube.com/shorts/8CsQZFo_TNI?si=2ZKPdWNOkQdE8Zwt)
+
 Here's a quick setup to make a shortcut to open all your social media feeds at one place, in one click, on your Windows PC:
 
 > Create a SocialMedia.bat file on your Desktop
